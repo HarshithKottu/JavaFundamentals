@@ -10,12 +10,12 @@ public class Customer {
 
     // No Org Constructor
     public Customer() {
-        System.out.println("Customer() is called...");
+        System.out.println("Employee() is called...");
     }
 
     // Arg Constructor
     public Customer(int id, String name, String email, String contactNo, int salary, int age) {
-        System.out.println("Customer(int, String, String, String, int, int) is called..");
+        System.out.println("Employee(int, String, String, String, int, int) is called..");
         this.id = id;
         this.name = name;
         this.email = email;

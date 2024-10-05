@@ -8,7 +8,7 @@ public class MySQLRepository extends Repository{
 
     @Override
     void addCustomerToDb(Customer customer) {
-        System.out.println("Customer Data is added to MySQL database successfully");
+        System.out.println("Employee Data is added to MySQL database successfully");
     }
 
 }

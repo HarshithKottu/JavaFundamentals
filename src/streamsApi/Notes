@@ -1,0 +1,24 @@
+Streams API
+
+Streams is a data source -> which are mostly in the form of collections.
+Stream is a not a data structure: Not a data container (for storing Data)
+--> A sequence of elements supporting sequential and parallel aggregate operations.
+--> Streaming? watching large vedio by loading content of large file gradually and parallel downloading.
+Understand above 2 statements with 2nd statement as Example.
+
+Data -> Intermediate operations
+     -> Terminal Operations
+
+
+From where does the employee Data comes from?
+-> From the Database or from an csv file etc.,
+-> we store this data from any of the above sources into a repository class (stores as a collection of large data)
+-> This repository is used to make CRUD operations (Create, Read, Update, Delete)
+
+
+Streams:
+    empList.stream()
+            .intermediateOperation1()       ---> some filters by adding logics
+            .intermediateOperation2()       ---> same
+            .TerminalOperation()            ---> finally we have to modify the streams back to our required return format
+

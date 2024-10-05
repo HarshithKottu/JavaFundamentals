@@ -3,7 +3,7 @@ package com.collegePredictor.java;
 public class ConditionalStats {
     public static void main(String[] args) {
         // discounts on a product based on membership type
-        /*Customer membership:
+        /*Employee membership:
         Diamond 20%, Gold 15%, Silver 10%,  others 0% */
         int productPrice;
         productPrice = 4500;

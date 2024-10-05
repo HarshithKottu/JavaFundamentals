@@ -1,0 +1,15 @@
+Java 8 Features:
+Functional Programming
+Lambda Expression
+Streams API
+Optional Class
+Functional Interfaces
+DateTimeAPI
+
+In an "Functional Interface" there should be only one SAM (single abstract method)
+and as many as default or static methods
+
+Why Functional Interfaces introduced?
+-> To simplify anonymous inner classes especially in functional programming
+
+Lambda Expression -> The implementation of functional interface (used to create instance)

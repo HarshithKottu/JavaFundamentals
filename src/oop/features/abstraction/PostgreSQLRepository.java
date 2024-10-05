@@ -9,6 +9,6 @@ public class PostgreSQLRepository extends Repository{
 
     @Override
     void addCustomerToDb(Customer customer) {
-        System.out.println("Customer Data is added to PostGreSQL database successfully");
+        System.out.println("Employee Data is added to PostGreSQL database successfully");
     }
 }

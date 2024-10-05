@@ -21,11 +21,11 @@ public class PremiumCustomer extends Customer {
     }
 
     /*// MethodOverloading Example below:
-    List<Customer> getCustomers() {
+    List<Employee> getCustomers() {
         return null;
     }
 
-    List<Customer> getCustomer(String locations) {
+    List<Employee> getCustomer(String locations) {
         return null;
     }*/
 

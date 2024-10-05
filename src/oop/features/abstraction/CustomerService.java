@@ -4,8 +4,8 @@ package oop.features.abstraction;
 public abstract class CustomerService {
 
 
-    /*void addCustomerToDb(Customer customer) {
-        System.out.println("Customer object is added to MySQL successfully");
+    /*void addCustomerToDb(Employee customer) {
+        System.out.println("Employee object is added to MySQL successfully");
         // code to connect mysql
         // if there is any change in DB and it is the only place where you make changes.
     }*/

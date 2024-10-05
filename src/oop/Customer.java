@@ -17,7 +17,7 @@ public class Customer {
     //No return types for this, starts with capital letter.
     //Used in the case when only one object is being constructed in the main class.
     public Customer(){
-        System.out.println("Customer is called..");
+        System.out.println("Employee is called..");
         id = 1111;
         name = "Cust1";
         email = "Cust1@gmail.com";

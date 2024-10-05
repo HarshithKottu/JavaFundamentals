@@ -2,7 +2,7 @@ package oop.features;
 
 public class Main {
     public static void main(String[] args) {
-        /*Customer customer = new Customer();
+        /*Employee customer = new Employee();
         customer.displayCustomerDetails();*/
 
         /*RegularCustomer regularCustomer = new RegularCustomer();

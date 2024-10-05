@@ -1,0 +1,20 @@
+collections Framework || Interface
+There are many collections. Few of them:
+1. Set: unordered collection| No Duplicates
+2. List: Ordered | Duplicates
+3. Map (special collection) etc., : <Key, Value> This is called key value pair. It is stored in such a way.
+These are all different data structures. Based on the requirement we opt particular collection/data structure
+
+Hash Set: Unordered Collection | No Duplicates
+Linked Hash set: It maintains insertion order | No Duplicates
+Tree set: sorted Collections
+
+
+Java Beans : While we are developing an app, we create many classes/ layers like domain, controller, servie, serviceimpl, repository etc.,
+The objects moves from frontend to backend
+Properties:
+-Private fields
+-no arg constructor allowed only
+-getters and setters should be used.
+-
+Java POJO (Plan Old Java Object) : simple object with less function (no extra responsibilities)
